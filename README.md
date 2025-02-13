@@ -7,6 +7,8 @@ An individuals focusing on Mobile Development using Kotlin and Flutter. Currentl
 
 <h4>Let`s Connect on Social Media 😄</h4>
 
+<a href="https://instagram.com/nandahahaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ffeldway" height="30" width="40" /></a>
+
 💡 What I Do:
 
 📱 Mengembangkan aplikasi mobile dengan teknologi modern
