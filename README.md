@@ -1,7 +1,8 @@
 <h4>👋 Hi There, I'm Ananda Priya Yustira!</h4>
-🚀 Mobile Enthusiast
 
-Saya seorang pengembang perangkat lunak yang saat ini berfokus pada pengembangan aplikasi mobile. Dengan latar belakang di bidang Teknik Informatika, saya selalu bersemangat dalam membangun aplikasi yang efisien, intuitif, dan scalable.
+An individuals focuing on Mobile Development using Kotlin and Flutter. Currently, i am also learning backend development in my free time to enhance my skills. 
+
+<h4>Let`s Connect on Social Media 😄</h4>
 
 💡 What I Do:
 
