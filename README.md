@@ -1,4 +1,4 @@
-<h2>👋 Hi There, I'm Ananda Priya Yustira!</h2>
+<h4>👋 Hi There, I'm Ananda Priya Yustira!</h4>
 🚀 Mobile Developer | Passionate About Clean Code & UX
 
 Saya seorang pengembang perangkat lunak yang saat ini berfokus pada pengembangan aplikasi mobile. Dengan latar belakang di bidang Teknik Informatika, saya selalu bersemangat dalam membangun aplikasi yang efisien, intuitif, dan scalable.
