@@ -3,7 +3,7 @@
 
 <h4>👋 Hi There, I'm Ananda Priya Yustira!</h4>
 
-An individuals focuing on Mobile Development using Kotlin and Flutter. Currently, i am also learning backend development in my free time to enhance my skills. 
+An individuals focusing on Mobile Development using Kotlin and Flutter. Currently, i am also learning backend development in my free time to enhance my skills. 
 
 <h4>Let`s Connect on Social Media 😄</h4>
 
