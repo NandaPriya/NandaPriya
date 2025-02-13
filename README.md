@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Ananda Priya Yustira!
+🚀 Mobile Developer | Passionate About Clean Code & UX
 
-<!--
-**nandapriya/nandapriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang pengembang perangkat lunak yang saat ini berfokus pada pengembangan aplikasi mobile. Dengan latar belakang di bidang Teknik Informatika, saya selalu bersemangat dalam membangun aplikasi yang efisien, intuitif, dan scalable.
 
-Here are some ideas to get you started:
+💡 What I Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Mengembangkan aplikasi mobile dengan teknologi modern
+🏗️ Menerapkan arsitektur yang bersih dan maintainable
+🔍 Selalu belajar dan mengeksplorasi teknologi baru
+🌎 Languages:
+🇮🇩 Bahasa Indonesia | 🇬🇧 English
+
+📫 Let's Connect!
+Temukan saya di GitHub atau hubungi saya melalui [LinkedIn/Email] untuk berkolaborasi dalam proyek menarik!
