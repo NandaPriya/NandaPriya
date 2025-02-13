@@ -15,7 +15,7 @@ Find me on GitHub or contact me via <strong>nandapriyaa@gmail.com</strong> to co
 
 - 🌱 I’m currently learning **Android Development**
 
-- 📫 How to reach me **nandapriyaaa@gmail.com**
+- 📫 How to reach me **nandapriyaaa@gmail.com** <br><br><br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
