@@ -7,6 +7,7 @@ An individuals focusing on Mobile Development using Kotlin and Flutter. Currentl
 
 <h4>Let`s Connect on Social Media 😄</h4>
 
+<a href="https://linkedin.com/in/ananda priya yustira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananda priya yustira" height="20" width="30" /></a>
 <a href="https://instagram.com/nandahahaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandahaha" height="20" width="30" /></a>
 
 
